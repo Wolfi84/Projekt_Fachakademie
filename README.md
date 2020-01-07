@@ -44,7 +44,7 @@ Folgende Punkte wurden Angestrebt:
     - Geleistete Stunden des Projektteams
 
 ## Sonstiges ##
-Lizenz siehe License File
+Lizenz GNU General Public License v3.0
   
 Ein großes Danke an meine Teamkollegen (Domminik und Benny)  
 
